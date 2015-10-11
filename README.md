@@ -11,3 +11,13 @@ PREREQUISITES :
 
 2.METASPLOIT framework installed.
 * Would be better if you are running this on Kali Linux.
+
+
+INSTALLATION INSTRUCTIONS :
+
+download the program and give executable permision then run using ./PayloadCreator.pl
+or run without givin permision, perl PayloadCreator.pl
+
+*ignore info.pl
+
+
