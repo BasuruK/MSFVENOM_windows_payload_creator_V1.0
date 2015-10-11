@@ -8,5 +8,6 @@ this script uses the Shikata_na_gai mfsvenon module to create the payload execut
 PREREQUISITES : 
 
 1.Linux Environment.
+
 2.METASPLOIT framework installed.
 * Would be better if you are running this on Kali Linux.
